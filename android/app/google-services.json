@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299516139150",
+    "project_id": "linkedin-f273c",
+    "storage_bucket": "linkedin-f273c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299516139150:android:35694c18ed179d9b50dbdf",
+        "android_client_info": {
+          "package_name": "com.example.hello_flutter1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvlpd9TLLIqrhzbr6kvkidDYjspkxXSEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299516139150:android:f0776207e2368efb50dbdf",
+        "android_client_info": {
+          "package_name": "com.justin.traveldiary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvlpd9TLLIqrhzbr6kvkidDYjspkxXSEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
